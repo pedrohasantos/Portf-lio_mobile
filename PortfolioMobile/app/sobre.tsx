@@ -15,7 +15,7 @@ export default function SobreScreen() {
           {'\n\n'}
           Ja fiz de tudo um pouco, ja fui chapeiro em um bar, músico solo e com banda, fiz voluntariado no exterior. E agora busco me profissionalisar mais nessa area de tecnologia.
           {'\n\n'}
-          Sinta se livre para explorar o aplicativo e as informações contidas nele.
+          Sinta se livre para explorar o aplicativo e as informações contidas nele. 
         </Text>
       </View>
     </ScrollView>
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#eeccbb',
+    color: '#fff2d4',
     marginBottom: 20,
   },
   card: {

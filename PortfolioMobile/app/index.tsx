@@ -58,12 +58,12 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 24,
-    color: '#eeccbb',
+    color: '#ffffff',
     fontWeight: 'bold',
     marginBottom: 10,
   },
   description: {
-    color: '#e8e8e8',
+    color: '#ffffff',
     fontSize: 16,
     textAlign: 'center',
     paddingHorizontal: 20,

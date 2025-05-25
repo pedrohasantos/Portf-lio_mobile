@@ -13,9 +13,6 @@ export default function SobreScreen() {
           {'\n'}
              <Text style={{ fontStyle: 'italic' }}>2017 - 2018 </Text>
              {'\n\n'}
-          2. <Text style={{ fontWeight: 'bold' }}></Text>
-          {'\n'}
-             <Text style={{ fontStyle: 'italic' }}>2017.1 - 2022.2 </Text>
         </Text>
         
       </View>

@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PortfolioMobile",
-    "slug": "PortfolioMobile",
+    "slug": "portifolio-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.pedrohasantos.portifoliomobile"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bf445b58-dc94-41b8-bbcc-230585629f92"
+      }
+    },
+    "owner": "pedrohasantos"
   }
 }

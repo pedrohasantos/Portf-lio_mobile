@@ -5,7 +5,7 @@ export default function SobreScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
 
-      <Text style={styles.title}>Experiências Acadêmicas</Text>
+      <Text style={styles.title}>Experiências Profissional</Text>
 
       <View style={styles.card}>
         <Text style={styles.cardText}>

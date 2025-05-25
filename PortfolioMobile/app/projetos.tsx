@@ -5,7 +5,7 @@ export default function SobreScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
 
-      <Text style={styles.title}>Experiências Acadêmicas</Text>
+      <Text style={styles.title}>Projetos</Text>
 
       <View style={styles.card}>
         <Text style={styles.cardText}>
@@ -16,6 +16,11 @@ export default function SobreScreen() {
           2. <Text style={{ fontWeight: 'bold' }}>Pomodojo</Text>
           {'\n'}
              <Text style={{ fontStyle: 'italic' }}>Cadeira de Engenharia de software{'\n'}Projeto que auxilia pessoas com deficit de atenção a estudar/, utilizando o metodo "Pomodoro" </Text>
+          {'\n\n'}
+          3. <Text style={{ fontWeight: 'bold' }}>Portfolio Mobile</Text>
+          {'\n'}
+             <Text style={{ fontStyle: 'italic' }}>2025.1 {'\n'}Projeto da cadeira de Programação Web-Mobile utilizando </Text>
+             
         </Text>
         
       </View>
